@@ -1,0 +1,24 @@
+body {
+    font-family: 'Calibri', sans-serif;
+}
+img {
+    padding: 6px;
+    border: 1px solid lightgrey;
+}
+
+h2 {
+    background: grey;
+}
+
+
+.list-item {
+    list-style: none;
+    display: block;
+    padding: 4px;
+    border: 1px solid #ddd;
+    width: 200px;
+}
+
+.tituloselected, .accionselected {
+    background-color: lightgreen;
+}
